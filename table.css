@@ -1,0 +1,190 @@
+  *{
+    box-sizing: border-box;
+  }
+  body{
+    background-color: #f9abb8;
+  }
+    .head{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    }
+ .tb{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 100px;
+   margin-top: 20px;
+   background-color:#FF8A9D;
+   color: white;
+   font-size: 20px;
+  }
+  tr{
+    border: 2px solid black;
+  }
+  td{
+    border: 2px solid black;
+   padding-bottom: 10px;
+   padding-top: 20px;
+  }
+  .td61{
+    padding-right: 150px;
+    padding-left: 150px;
+    text-align: center;
+
+  }
+  .td62{
+  padding-right: 50px;
+  padding-left: 50px;
+  }
+  .td63{
+   padding-right: 150px;
+   padding-left: 150px;
+  }
+  .td64{
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+   .td61:hover{
+    background-color: #f54d69;
+   }
+    .td62:hover{
+    background-color: #f54d69;
+   }
+    .td63:hover{
+    background-color: #f54d69;
+   }
+    .td64:hover{
+    background-color: #f54d69;
+   }
+    .td65:hover{
+    background-color: #f54d69;
+   }
+    .td66:hover{
+    background-color: #f54d69;
+   }
+    .td67:hover{
+    background-color: #f54d69;
+   }
+    .td68:hover{
+    background-color: #f54d69;
+   }
+    .td69:hover{
+    background-color: #f54d69;
+   }
+    .td70:hover{
+    background-color: #f54d69;
+   }
+    .td71:hover{
+    background-color: #f54d69;
+   }
+    .td72:hover{
+    background-color: #f54d69;
+   }
+    .td73:hover{
+    background-color: #f54d69;
+   }
+    .td74:hover{
+    background-color: #f54d69;
+   }
+    .td75:hover{
+    background-color: #f54d69;
+   }
+    .td76:hover{
+    background-color: #f54d69;
+   }
+    .td77:hover{
+    background-color: #f54d69;
+   }
+    .td78:hover{
+    background-color: #f54d69;
+   }
+    .td79:hover{
+    background-color: #f54d69;
+   }
+    .td80:hover{
+    background-color: #f54d69;
+   }
+    .td81:hover{
+    background-color: #f54d69;
+   }
+    .td82:hover{
+    background-color: #f54d69;
+   }
+    .td83:hover{
+    background-color: #f54d69;
+   }
+    .td84:hover{
+    background-color: #f54d69;
+   }
+    .td85:hover{
+    background-color: #f54d69;
+   }
+    .td86:hover{
+    background-color: #f54d69;
+   }
+    .td87:hover{
+    background-color: #f54d69;
+   }
+    .td88:hover{
+    background-color: #f54d69;
+   }
+    .td89:hover{
+    background-color: #f54d69;
+   }
+    .td90:hover{
+    background-color: #f54d69;
+   }
+    .td91:hover{
+    background-color: #f54d69;
+   }
+    .td92:hover{
+    background-color: #f54d69;
+   }
+    .td93:hover{
+    background-color: #f54d69;
+   }
+    .td94:hover{
+    background-color: #f54d69;
+   }
+    .td95:hover{
+    background-color: #f54d69;
+   }
+    .td96:hover{
+    background-color: #f54d69;
+   }
+    .td97:hover{
+    background-color: #f54d69;
+   }
+    .td98:hover{
+    background-color: #f54d69;
+   }
+    .td99:hover{
+    background-color: #f54d69;
+   }
+    .td100:hover{
+    background-color: #f54d69;
+   }
+    .td101:hover{
+    background-color: #f54d69;
+   }
+    .td102:hover{
+    background-color: #f54d69;
+   }
+    .td103:hover{
+    background-color: #f54d69;
+   }
+    .td104:hover{
+    background-color: #f54d69;
+   }
+    .td105:hover{
+    background-color: #f54d69;
+   }
+    .td106:hover{
+    background-color: #f54d69;
+   }
+    .td107:hover{
+    background-color: #f54d69;
+   }
+    .td108:hover{
+    background-color: #f54d69;
+   }

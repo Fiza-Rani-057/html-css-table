@@ -1,0 +1,291 @@
+   body{
+    background-color: #000000;
+    color: rgb(225, 231, 237, 1);
+   }
+ *{
+    box-sizing: border-box;
+ }
+  #label{
+    font-size: 20px;
+    margin-left: 50px;
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 700px;
+  }
+  #search{
+    height: 25px;
+    width: 200px;
+  }
+  .table{
+    border: 2px solid black;
+    opacity: 0.8;
+   margin-left: 150px;
+   margin-top: 20px;
+  border-color: aliceblue;
+  border-collapse: collapse;
+
+  }
+  td{
+    border: 2px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: aliceblue;
+  }
+  th{
+    border: 2px solid black;
+     padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    color: aliceblue;
+    border-color: aliceblue;
+  }
+  .tr1:hover{
+    background-color: rgb(243, 235, 235, 0.2);
+  }
+  .tr2{
+    background-color: rgb(243, 233, 233, 0.2);
+  }
+   .tr3:hover{
+    background-color: rgb(218, 216, 216, 0.2);
+  }
+   .tr4:hover{
+    background-color: rgb(218, 216, 216, 0.2);
+  }
+   .tr5:hover{
+    background-color: rgb(218, 216, 216, 0.2);
+  }
+   .tr6:hover{
+    background-color: rgb(218, 216, 216), 0.2;
+  }
+   .tr7:hover{
+    background-color: rgb(218, 216, 216), 0.2;
+  }
+   .tr8:hover{
+    background-color: rgb(218, 216, 216, 0.2);
+  }
+   .tr9:hover{
+    background-color: rgb(218, 216, 216, 0.2);
+  }
+   .tr10:hover{
+    background-color: rgb(218, 216, 216, 0.2);
+  }
+  .th4{
+    padding: 20px;
+  }
+  .th1:hover{
+    background-color: rgb(183, 180, 180, 0.3);
+  }
+   .th2:hover{
+    background-color: rgb(183, 180, 180, 0.6);
+  }
+   .th3:hover{
+    background-color: rgb(183, 180, 180, 0.6);
+  }
+   .th4:hover{
+    background-color: rgb(183, 180, 180, 0.6);
+  }
+   .th5:hover{
+    background-color: rgb(183, 180, 180, 0.6);
+  }
+   .th6:hover{
+    background-color: rgb(183, 180, 180, 0.6);
+  }
+  .td1:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td2:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td3:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td4:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td5:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td6:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td7:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td8:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td9:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td10:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td11:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td12:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td13:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td14:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td15:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td16:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td17:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td18:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td18:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+ .td19:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td20:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td21:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td22:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+.td23:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td24:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td25:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td26:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td27:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td28:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td29:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td30:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td31:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td32:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td33:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td34:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td35:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td36:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+.td37:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td38:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td39:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td40:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td41:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td42:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td43:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td44:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td45:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td46:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td47:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td48:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td49:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td50:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td51:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td52:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td53:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td54:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td55:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td56:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td57:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td58:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td59:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+  .td60:hover{
+  background-color: rgb(178, 178, 178, 0.6);
+  }
+   .head{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+  }
+  .tb{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 100px;
+   margin-top: 20px;
+   background-color:#FF8A9D;
+   color: white;
+  }

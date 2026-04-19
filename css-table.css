@@ -1,0 +1,66 @@
+ body{
+    background-color: black;
+    color: aquamarine;
+    background-image: url(images/premium_photo-1686255006386-5f58b00ffe9d.avif);
+    /* background-size: cover; */
+    background-attachment: fixed;
+ }
+*{
+     box-sizing: border-box;
+}
+ h1{
+    color: aliceblue;
+    background-color: rgb(63, 154, 154, 0.3);
+    font-size: 50px;
+    text-align: center;
+ }
+ .table3{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 0px;
+    
+ }
+  td{
+   border: 2px solid black;
+   /* border-collapse: collapse; */
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+    border: none;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+ img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+ } 
+ .tr18{
+  background-color: rgb(121, 218, 218, 0.7);
+ }
+ .tr19{
+    background-color: rgb(109, 189, 189);
+ }
+ .tr20{
+    background-color: rgba(97, 151, 151, 0.6);
+ }
+ .tr21{
+    background-color: rgb(73, 196, 196, 0.9);
+ }
+ .tr22{
+    background-color: rgb(80, 248, 248, 0.5);
+ }
+ .tr23{
+    background-color: rgb(106, 253, 253,0.4);
+ }
+ .tr24{
+    background-color: rgba(81, 233, 233, 0.3);
+ }
+ .tr25{
+    background-color: rgb(15, 156, 156, 0.4);
+ }
+ .tr26{
+    background-color: rgb(100, 143, 143, 0.8);
+ }
