@@ -5,10 +5,34 @@
  *{
     box-sizing: border-box;
  }
+   .a1{
+    color: aliceblue;
+     margin-right: 50px;
+     margin-left: 200px;
+     text-decoration: none;
+     font-size: 20px;
+     text-align: center;
+   } 
+   .a2{
+      color: aliceblue;
+     margin-right: 50px;
+     margin-left: 100px;
+     text-decoration: none;
+     font-size: 20px;
+     text-align: center;
+   }
+   .a3{
+     color: aliceblue;
+     margin-right: 50px;
+     margin-left: 100px;
+     text-decoration: none;
+     font-size: 20px;
+     text-align: center;
+   }
   #label{
     font-size: 20px;
     margin-left: 50px;
- font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-right: 700px;
   }
   #search{

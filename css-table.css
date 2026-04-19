@@ -8,6 +8,30 @@
 *{
      box-sizing: border-box;
 }
+    .a1{
+    color: aliceblue;
+     margin-right: 50px;
+     margin-left: 200px;
+     text-decoration: none;
+     font-size: 20px;
+     text-align: center;
+   } 
+   .a2{
+      color: aliceblue;
+     margin-right: 50px;
+     margin-left: 100px;
+     text-decoration: none;
+     font-size: 20px;
+     text-align: center;
+   }
+   .a3{
+     color: aliceblue;
+     margin-right: 50px;
+     margin-left: 100px;
+     text-decoration: none;
+     font-size: 20px;
+     text-align: center;
+   }
  h1{
     color: aliceblue;
     background-color: rgb(63, 154, 154, 0.3);
